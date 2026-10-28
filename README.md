@@ -4,7 +4,7 @@ Predicting student grades and finding students who may need extra help, using ma
 
 This project was done for the **IDEAS (Institute of Data Engineering, Analytics and Science Foundation) Autumn Internship Program 2026**, ISI Kolkata.
 
-- **Author:** Arun Sankar E K, MSc Mathematics, University of Delhi
+- **Author:** Arun Sankar E K
 - **Mentor:** Dr. Chandan Biswas
 - **Internship period:** 21 September 2026 to 16 October 2026
 
